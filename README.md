@@ -1,1 +1,1 @@
-[https://projecteuler.net](https://projecteuler.info/)
+[https://projecteuler.net](https://projecteuler.net/)
