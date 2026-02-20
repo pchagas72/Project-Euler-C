@@ -25,7 +25,7 @@ int main(){
                                          // And, in this case, removes them
     int len = strlen(buffer);
     if (mask_size > len){
-        printf("Mask size is bigger than the number length\n");
+            printf("Mask size is bigger than the number length\n");
     }
     
     for (int i = 0; i <= len - mask_size; i++) {
